@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="www.sitemaps.org/schemas/sitemap/0.9"><url><loc>www.signout.pro</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.signout.pro/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.signout.pro/assets/images/project_2.jpeg</image:loc>
+      <image:title>Custom 3D Acrylic and Stainless Steel Sign Boards Rawalpindi</image:title>
+      <image:caption>Illuminated 3D channel letters fabricated at Sign Out workshop, Committee Chowk, Rawalpindi.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.signout.pro/assets/images/project_1.jpeg</image:loc>
+      <image:title>Indoor and Outdoor SMD LED Video Screens P2 to P10 Pakistan</image:title>
+      <image:caption>Commercial high-refresh SMD LED display video walls with Huidu controllers across Rawalpindi and Islamabad.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.signout.pro/assets/images/project_3.jpeg</image:loc>
+      <image:title>Commercial Printing, Roll-Up Standees and RFID Smart ID Cards</image:title>
+      <image:caption>2.5 x 6 ft aluminum roll-up standees and printed 13.56MHz Mifare smart ID cards with custom lanyards.</image:caption>
+    </image:image>
+  </url>
+</urlset>
